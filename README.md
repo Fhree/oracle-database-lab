@@ -1,4 +1,4 @@
-# Oracle Database Lab (Training edition)
+# Oracle Database Lab (Training Edition — Academic Version)
 Training repository for Oracle Database administration,
 testing, change management and Git workflows.
 Name: Luis García Villalonga
