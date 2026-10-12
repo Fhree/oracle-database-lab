@@ -5,3 +5,5 @@ Name: Luis García Villalonga
 Professor: Richard Aviles Lopez
 
 Línea añadida desde el navegador
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch and commit conventions.
