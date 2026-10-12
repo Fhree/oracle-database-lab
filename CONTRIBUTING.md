@@ -7,3 +7,4 @@ This project follows Conventional Commits:
 Common types: feat, fix, docs, test, refactor, perf, build, ci, chore
 ## Pull Requests
 Every change must go through a Pull Request with at least one approval before merging into main.
+# Editar CONTRIBUTING.md añadiendo "security" a la lista de tipos
